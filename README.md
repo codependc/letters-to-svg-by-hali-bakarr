@@ -2,6 +2,10 @@
 
 2017.08.31 talk featuring Hali Bakarr on vector lettering and manipulation
 
+## Original Slides
+
+You can [find the original slides here](https://docs.google.com/presentation/d/16RoUuOvgRiF7Dtf_ipAKBuvDj4FeWZgR2Q1an_E2y6c/edit#slide=id.p)!
+
 ## Notes
 
 - SVGs are Scalable Vector Graphics
@@ -20,10 +24,10 @@
 
 ## Resources
 
-[Animate CodePen](https://codepen.io/utamilah/pen/ZJebBy)
-[Laced NYC CodePen](https://codepen.io/utamilah/pen/PKXjXO)
-[Walking Dead CodePen](https://codepen.io/utamilah/pen/EvvyPK)
-[Insecure CodePen](https://codepen.io/utamilah/pen/Xaovyj)
+1. [Animate CodePen](https://codepen.io/utamilah/pen/ZJebBy)
+2. [Laced NYC CodePen](https://codepen.io/utamilah/pen/PKXjXO)
+3. [Walking Dead CodePen](https://codepen.io/utamilah/pen/EvvyPK)
+4. [Insecure CodePen](https://codepen.io/utamilah/pen/Xaovyj)
 
 - CSS Keyframes
 - SMIL
