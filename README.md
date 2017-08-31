@@ -22,9 +22,10 @@
 
 [Animate CodePen](https://codepen.io/utamilah/pen/ZJebBy)
 [Laced NYC CodePen](https://codepen.io/utamilah/pen/PKXjXO)
-[Walking Dead](https://codepen.io/utamilah/pen/EvvyPK)
+[Walking Dead CodePen](https://codepen.io/utamilah/pen/EvvyPK)
+[Insecure CodePen](https://codepen.io/utamilah/pen/Xaovyj)
 
-= CSS Keyframes
+- CSS Keyframes
 - SMIL
 - Greensock DrawSVG Plugin
 - Segment by Tympanus
